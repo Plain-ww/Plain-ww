@@ -1,6 +1,6 @@
 ### 👨‍💻 Open source work stats
 
-![Plain-ww's Github stats](https://github-readme-stats.vercel.app/api?username=Plain-ww&show_icons=true)<img align='right' src='https://octodex.github.com/spidertocat/' width='200"'>
+![Plain-ww's Github stats](https://github-readme-stats.vercel.app/api?username=Plain-ww&show_icons=true)<img align='right' src='	https://octodex.github.com/images/spidertocat.png' width='200"'>
 
 ### 📫 Reach me 
 - 💬 Ask me about anything.
